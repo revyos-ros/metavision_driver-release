@@ -1,3 +1,26 @@
+## metavision_driver (jazzy) - 2.0.1-1
+
+The packages in the `metavision_driver` repository were released into the `jazzy` distro by running `/root/venv/bin/bloom-release -r jazzy metavision_driver --override-release-repository-push-url git@github.com:revyos-ros/metavision_driver-release.git` on `Mon, 23 Jun 2025 06:33:10 -0000`
+
+The `metavision_driver` package was released.
+
+Version of package(s) in repository `metavision_driver`:
+
+- upstream repository: https://github.com/ros-event-camera/metavision_driver.git
+- release repository: https://github.com/revyos-ros/metavision_driver-release.git
+- rosdistro version: `2.0.1-1`
+- old version: `2.0.0-1`
+- new version: `2.0.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.25.1`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## metavision_driver (humble) - 2.0.0-1
 
 The packages in the `metavision_driver` repository were released into the `humble` distro by running `/usr/bin/bloom-release --edit-track --track humble --rosdistro humble metavision_driver` on `Tue, 16 Jul 2024 19:56:01 -0000`
